@@ -1,0 +1,5 @@
+Skeleton Code for Assignment 3 Activity 3
+
+Contributers:
+
+Jay Kardaras (s4171846)
